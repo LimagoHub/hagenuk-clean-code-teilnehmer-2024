@@ -1,0 +1,3 @@
+C:/Users/JoachimWagner/Documents/git/Atlas/cleancode/atlas-clean-code-oktober-2024/VectorFillerUebung/cmake-build-debug/CMakeFiles/VectorFillerUebung.dir
+C:/Users/JoachimWagner/Documents/git/Atlas/cleancode/atlas-clean-code-oktober-2024/VectorFillerUebung/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JoachimWagner/Documents/git/Atlas/cleancode/atlas-clean-code-oktober-2024/VectorFillerUebung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
